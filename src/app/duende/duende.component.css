@@ -1,0 +1,14 @@
+.creature-card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px; 
+}
+
+.creature-card-container{
+    margin-bottom: 15px;
+    background-color: #055869; 
+    padding: 20px;
+    border: 1px solid #201e1e; 
+    border-radius: 10px; 
+} 
